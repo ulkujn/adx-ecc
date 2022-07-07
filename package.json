@@ -52,7 +52,7 @@
     "bigi": "1.4.2",
     "browserify-aes": "1.0.6",
     "bs58": "4.0.1",
-    "bytebuffer": "5.0.1",
+    "bytebuffer": "https://github.com/ulkujn/bytebuffer.git",
     "create-hash": "1.1.3",
     "create-hmac": "1.1.6",
     "ecurve": "1.0.5",
